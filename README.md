@@ -1,6 +1,7 @@
 # Automatic Audio-to-symbolic Arrangement
 
-This is the repository of the project "Audio-to-symbolic Arrangement via Cross-modal Music Representation Learning" by Ziyu Wang, Dejing Xu, Gus Xia and Ying Shan (**[arXiv:2112.15110](https://arxiv.org/abs/2112.15110)**).
+This is the repository of the project
+> Ziyu Wang, Dejing Xu, Gus Xia and Ying Shan, "Audio-to-symbolic Arrangement via Cross-modal Music Representation Learning," in ICASSP, 2022 (**[arXiv:2112.15110](https://arxiv.org/abs/2112.15110)**).
 
 ## Model Overview
 
